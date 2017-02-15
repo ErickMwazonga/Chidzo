@@ -1,0 +1,10 @@
+body{
+  background: url("images/background.jpg") no-repeat;
+  background-size: cover;
+  color: #ce93d8
+  /*background: white url("images/background.jpg") no-repeat right bottom;*/
+  /*background-color: #ce93d8;*/
+}
+li a {
+  color: #ce93d8;
+}
